@@ -18,10 +18,3 @@ I'm currently working on Android development.<br>I'm looking to collaborate on a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=azutsavv&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=azutsavv)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
